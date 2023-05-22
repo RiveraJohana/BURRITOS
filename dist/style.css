@@ -1,0 +1,37 @@
+body{
+
+font-family: Verdana; 
+  background: url(F9DC6A); 
+  background-repeat:repeat;
+}
+
+h1, p{
+color:#7B5C26; 
+size: 20;
+text-align: center;
+}
+
+div{
+
+width:60%;
+height:500px;
+background: #B3EAF3; 
+margin:auto;
+}
+
+.negritas{
+font-weight: bold; 
+font-size: 18px;
+
+}
+
+div{
+  width: 60%
+    height:300px;
+  border-color:#F2FFBA #F2FFBA #F2FFBA #F2FFBA;
+  border-width:10px 15px 10px 20px;
+  border-style:solid dotted dashed double;
+  
+  background: orange
+    text-align: justify;
+}
